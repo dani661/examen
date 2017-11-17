@@ -17,7 +17,6 @@ public class ExCOD1Av {
     public static void main(String[] args) {
         // PRIMER COMMIT
         // SEGUNDO COMMIT
-        // COMMIT C
     }
     
 }
